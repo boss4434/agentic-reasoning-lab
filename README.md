@@ -1,6 +1,6 @@
 # Agentic Reasoning Lab
 
-**Open-source lab exploring multi-agent reasoning, contextual orchestration, and model reliability — inspired by enterprise AI systems at AWS.**
+**Open-source lab exploring multi-agent reasoning, contextual orchestration, and model reliability.**
 
 ### Overview
 This repository demonstrates how AI Product Managers can go beyond writing PRDs — actually *building* reasoning-driven systems. It includes:
